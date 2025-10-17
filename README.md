@@ -1,2 +1,2 @@
-# quantum-computing-projects
-this repository contains my quantum computing personal projects
+# personal-projects
+this repository contains my quantum computing and AI personal projects
